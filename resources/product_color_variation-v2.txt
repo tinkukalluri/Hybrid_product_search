@@ -1,0 +1,392 @@
+crimson => red
+scarlet => red
+cherry => red
+burgundy => red
+firebrick => red
+ruby => red
+carmine => red
+vermilion => red
+cardinal => red
+raspberry => red
+rose => red
+
+tangerine => orange
+coral => orange
+peach => orange
+amber => orange
+salmon => orange
+pumpkin => orange
+apricot => orange
+burnt orange => orange
+persimmon => orange
+
+gold => yellow
+mustard => yellow
+canary => yellow
+lemon => yellow
+butter => yellow
+honey => yellow
+dandelion => yellow
+amber => yellow
+maize => yellow
+
+emerald => green
+olive => green
+lime => green
+jade => green
+mint => green
+seafoam => green
+forest green => green
+pine => green
+moss => green
+sage => green
+
+navy => blue
+royal blue => blue
+cobalt => blue
+sky blue => blue
+turquoise => blue
+baby blue => blue
+periwinkle => blue
+azure => blue
+teal => blue
+cerulean => blue
+denim => blue
+
+lavender => purple
+lilac => purple
+mauve => purple
+violet => purple
+plum => purple
+indigo => purple
+purple => purple
+amethyst => purple
+
+chocolate => brown
+chestnut => brown
+coffee => brown
+taupe => brown
+beige => brown
+khaki => brown
+cinnamon => brown
+mahogany => brown
+caramel => brown
+sand => brown
+
+slate => gray
+charcoal => gray
+ash => gray
+gunmetal => gray
+steel => gray
+pewter => gray
+dove gray => gray
+smoke => gray
+silver => gray
+graphite => gray
+
+jet black => black
+ebony => black
+charcoal => black
+onyx => black
+obsidian black => black
+midnight black => black
+raven black => black
+coal => black
+pitch black => black
+
+ivory => white
+snow => white
+pearl => white
+
+
+
+ladies => womens
+female => womens
+girls => womens
+women's => womens
+womenswear => womens
+ladieswear => womens
+
+male => mens
+men's => mens
+menswear => mens
+gentlemen => mens
+
+gender-neutral => unisex
+all-gender => unisex
+
+children => kids
+child => kids
+boy => kids
+girl => kids
+toddler => kids
+youth => kids
+junior => kids
+infant => kids
+baby => kids
+
+informal => casual
+everyday wear => casual
+relaxed => casual
+
+business => formal
+professional => formal
+dressy => formal
+elegant => formal
+
+festive => party
+occasion => party
+evening wear => party
+dress-up => party
+
+activewear => athletic
+sportswear => athletic
+gymwear => athletic
+workout => athletic
+
+urban => streetwear
+hype => streetwear
+trendy => streetwear
+
+retro => vintage
+classic => vintage
+old-school => vintage
+
+bohemian => boho
+hippie => boho
+free-spirited => boho
+
+t-shirts => tshirt
+t-shirt => tshirt
+tee => tshirt
+tees => tshirt
+t-shirt's => tshirt
+tee's => tshirt
+graphic tee => tshirt
+
+shirts => shirt
+shirt's => shirt
+button-up => shirt
+button-down => shirt
+dress shirt => shirt
+
+denim => jeans
+pants => jeans
+denims => jeans
+skinny jeans => jeans
+ripped jeans => jeans
+
+slacks => trousers
+chinos => trousers
+
+casual wear => casual
+casualwear => casual
+casual-wear => casual
+
+formal wear => formal
+formalwear => formal
+formal-wear => formal
+
+ethnic wear => ethnic
+ethnicwear => ethnic
+ethnic-wear => ethnic
+
+western wear => western
+westernwear => western
+western-wear => western
+
+sportswear => sports
+sports-wear => sports
+sports clothing => sports
+athletic wear => sports
+sports apparel => sports
+
+activewear => active
+active-wear => active
+active clothing => active
+workout wear => active
+gym wear => active
+
+party wear => party
+partywear => party
+party-wear => party
+
+winter wear => winter
+winterwear => winter
+winter-wear => winter
+
+summer wear => summer
+summerwear => summer
+summer-wear => summer
+
+outerwear => outer
+outer-wear => outer
+jackets => outer
+coats => outer
+winter clothing => outer
+
+loungewear => lounge
+lounge-wear => lounge
+home wear => lounge
+home clothing => lounge
+
+nightwear => night
+night-wear => night
+sleepwear => night
+pyjamas => night
+pajamas => night
+
+innerwear => inner
+inner-wear => inner
+lingerie => inner
+undergarments => inner
+intimates => inner
+
+denim & jeans => denim
+jeans => denim
+denimwear => denim
+denim-wear => denim
+
+tops & t-shirts => tops
+tshirts => tops
+t-shirts => tops
+tees => tops
+t shirts => tops
+
+shirts => shirts
+formal shirts => shirts
+casual shirts => shirts
+
+dresses => dresses
+gowns => dresses
+frocks => dresses
+
+suits & blazers => suits
+blazers => suits
+formal suits => suits
+tuxedos => suits
+coats => suits
+
+kurta & kurtis => kurtas
+kurtis => kurtas
+kurtas => kurtas
+ethnic kurtas => kurtas
+Indian kurtis => kurtas
+
+lehengas => lehengas
+bridal lehengas => lehengas
+festive lehengas => lehengas
+
+sarees => sarees
+saris => sarees
+traditional sarees => sarees
+ethnic sarees => sarees
+
+accessories => accessories
+fashion accessories => accessories
+add-ons => accessories
+
+footwear => footwear
+shoes => footwear
+sandals => footwear
+sneakers => footwear
+boots => footwear
+
+handbags & wallets => handbags
+wallets => handbags
+purses => handbags
+bags => handbags
+
+jewelry => jewelry
+jewellery => jewelry
+ornaments => jewelry
+fashion jewelry => jewelry
+
+watches => watches
+wristwatches => watches
+timepieces => watches
+
+bags & backpacks => bags
+backpacks => bags
+rucksacks => bags
+school bags => bags
+
+kidswear => kidswear
+children's clothing => kidswear
+kids clothing => kidswear
+
+unisex apparel => unisex
+gender-neutral clothing => unisex
+unisex wear => unisex
+
+combo sets => combo
+clothing sets => combo
+outfits => combo
+bundles => combo
+
+festival wear => festival
+festive clothing => festival
+special occasion wear => festival
+
+indo-western wear => indo-western
+fusion wear => indo-western
+indo-western outfits => indo-western
+
+swimwear => swimwear
+swimsuits => swimwear
+beachwear => swimwear
+bathing suits => swimwear
+
+beachwear => beachwear
+resort wear => beachwear
+tropical clothing => beachwear
+
+uniforms => uniforms
+workwear => uniforms
+school uniforms => uniforms
+
+office wear => office
+workwear => office
+business clothing => office
+
+maternity wear => maternity
+pregnancy clothing => maternity
+maternity dresses => maternity
+
+plus size clothing => plus size
+plus-size apparel => plus size
+extended sizes => plus size
+
+bridal wear => bridal
+wedding dresses => bridal
+bridal lehengas => bridal
+
+groom wear => groom
+wedding suits => groom
+sherwanis => groom
+
+sports accessories => sports accessories
+gym gear => sports accessories
+athletic accessories => sports accessories
+
+travel gear => travel
+luggage => travel
+travel bags => travel
+
+beauty products => beauty
+cosmetics => beauty
+skincare => beauty
+makeup => beauty
+
+active accessories => active accessories
+fitness gear => active accessories
+workout accessories => active accessories
+
+luxury wear => luxury
+designer wear => luxury
+premium clothing => luxury
+
+sustainable wear => sustainable
+eco-friendly clothing => sustainable
+sustainable fashion => sustainable
+
